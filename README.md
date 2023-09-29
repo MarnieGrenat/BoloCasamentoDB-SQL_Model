@@ -1,3 +1,7 @@
+# README languages supported:
+- [Descrição em Português](https://github.com/MarnieGrenat/DBI_TG1#trabalho-em-grupo-de-banco-de-dados-i)
+- [English Description](https://github.com/MarnieGrenat/DBI_TG1#group-work-for-database-i)
+
 # Trabalho em Grupo de Banco de Dados I
 
 Trabalho 1 de Banco de Dados I - SQL. Diagramação
