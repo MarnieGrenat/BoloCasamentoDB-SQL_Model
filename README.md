@@ -6,7 +6,7 @@
 
 Trabalho 1 de Banco de Dados I - SQL. Diagramação
 
-Autores: [Gabriela Dellamora Paim](https://github.com/MarnieGrenat), [Alessandro Eduardo dos Santos Sant'anna](https://github.com/alessandro2510)
+Autores: [Gabriela Dellamora Paim](https://github.com/MarnieGrenat), [Alessandro Eduardo dos Santos Sant'anna](https://github.com/sant-prog)
 
 Versão: 2023.09.29
 
